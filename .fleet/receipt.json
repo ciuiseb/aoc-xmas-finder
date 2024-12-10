@@ -1,0 +1,13 @@
+{
+    "spec": {
+        "template_id": "kmt",
+        "targets": {
+            "desktop": {
+                "ui": [
+                    "compose"
+                ]
+            }
+        }
+    },
+    "timestamp": "2024-12-08T18:39:35.507063171Z"
+}
