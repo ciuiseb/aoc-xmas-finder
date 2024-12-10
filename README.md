@@ -16,7 +16,7 @@ From Advent of Code 2023, Day 4 challenges you to find all occurrences of "XMAS"
   - Cyan: Found XMAS pattern
 
 ## Demo
-https://github.com/ciuiseb/pattern-visualizer/blob/main/composeApp/src/desktopMain/resources/demo.mp4
+https://github.com/user-attachments/assets/2fc2ceae-e313-41f4-bdda-a286657cfd48
 
 ## Technical Implementation
 - Built with Kotlin Multiplatform (Desktop target)
