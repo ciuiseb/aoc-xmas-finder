@@ -1,8 +1,8 @@
 # XMAS Pattern Finder Visualization
-A visualization tool for the Advent of Code 2023, Day 4 "Ceres Search" puzzle, built with Kotlin and Compose Desktop.
+A visualization tool for the Advent of Code 2024, Day 4 "Ceres Search" puzzle, built with Kotlin and Compose Desktop.
 
 ## Problem Description
-From Advent of Code 2023, Day 4 challenges you to find all occurrences of "XMAS" in a word search grid. The interesting twist is:
+From Advent of Code 2023, Day 4 challenges you to find all occurrences of "XMAS" in a word search grid, keeping in mind that:
 - Words can be horizontal, vertical, or diagonal
 - Words can be written forwards or backwards
 - Words can overlap with other occurrences
@@ -16,15 +16,11 @@ From Advent of Code 2023, Day 4 challenges you to find all occurrences of "XMAS"
   - Cyan: Found XMAS pattern
 
 ## Demo
+
 <div align="center">
-  <video width="720" style="border-radius: 8px; margin: 16px 0;" controls>
-    <source src="https://github.com/user-attachments/assets/2fc2ceae-e313-41f4-bdda-a286657cfd48" type="video/mp4">
-  </video>
-</div>
-<div align="center">
-  <video width="720" style="border-radius: 8px; margin: 16px 0;" controls>
-    <source src="https://github.com/ciuiseb/pattern-visualizer/assets/54617534/d75fa017-edd1-4e79-9db8-c0ea6e25b85c" type="video/mp4">
-  </video>
+
+https://github.com/user-attachments/assets/2fc2ceae-e313-41f4-bdda-a286657cfd48
+
 </div>
 
 ## Technical Implementation
