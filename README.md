@@ -2,7 +2,7 @@
 A visualization tool for the Advent of Code 2024, Day 4 "Ceres Search" puzzle, built with Kotlin and Compose Desktop.
 
 ## Problem Description
-From Advent of Code 2024, Day 4 challenges you to find all occurrences of "XMAS" in a word search grid, keeping in mind that:
+The puzzle challenges you to find all occurrences of "XMAS" in a word search grid, keeping in mind that:
 - Words can be horizontal, vertical, or diagonal
 - Words can be written forwards or backwards
 - Words can overlap with other occurrences
